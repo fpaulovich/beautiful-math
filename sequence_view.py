@@ -17,7 +17,7 @@ def sequence_view(number, filename='sequence.svg', nr_rows=20, nr_columns=20, ra
                             y=0,
                             width=width,
                             height=height,
-                            fill='#293133'))
+                            fill='#3D3F41'))
 
     for i in range(nr_rows):
         for j in range(nr_columns):
