@@ -1,3 +1,9 @@
+# Author: Fernando V. Paulovich -- <fpaulovich@gmail.com>
+#
+# Copyright 2024 Fernando V. Paulovich
+# License: BSD-3-Clause
+
+
 import drawsvg as draw
 import matplotlib as mpl
 import matplotlib.pyplot as plt

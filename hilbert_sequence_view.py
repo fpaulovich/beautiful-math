@@ -1,11 +1,16 @@
+# Author: Fernando V. Paulovich -- <fpaulovich@gmail.com>
+#
+# Copyright 2024 Fernando V. Paulovich
+# License: BSD-3-Clause
+
+# hilbert encode was based on
+# https://github.com/saehm/hagrid/blob/master/src/hilbert.js
+
 import drawsvg as draw
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 
 # https://cduck.github.io/drawsvg/
-
-# hilbert encode was based on
-# https://github.com/saehm/hagrid/blob/master/src/hilbert.js
 
 
 def rotate(size, px, py, rx, ry):
